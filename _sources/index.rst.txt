@@ -57,12 +57,5 @@ Technologies:
     Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, Rocky Linux, Shell, TensorFlow, Sphinx, Vim.
 
 Spoken Languages:
-    Asian Languages: 
-        Cantonese, Mandarin. 
-    Carribean Languages:
-        Sranan Tongo.
-    Latin languages: 
-        French, Spanish.
-    Semitic Langauges:
-        Modern Standard Arabic, Egyptian Arabic.
+    Cantonese, Mandarin, Sranan Tongo, French, Spanish, Modern Standard Arabic, Egyptian Arabic.
 
