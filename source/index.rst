@@ -10,9 +10,6 @@ Justin Napolitano
 
     My name is Justin Napolitano.  Welcome to my website.
 
-    :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
-
-
 
 Email:
     * :email:`justin@jnapolitano.io`
@@ -26,17 +23,18 @@ Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
 
 Resume:
-    :download:`RESUME PDF DOWNLOAD <pdf/justin_napolitano_resume.pdf>`
+    :download:`Download Resume <pdf/justin_napolitano_resume.pdf>`
 
 
 
 Projects
 #########
+
+`Court-Behavior.io <https://court-behavior.io>`_
+    * An open source project to document the behavior of the United States Supreme Court.  
+
 `Supreme Court Metadata Graph <https://cv.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-sup-court-meta-data-graph/index.html>`__
     * A graph of the metadata of every United States Supreme Court case.  
-
-`Court-Behavior.io <https://court-behavior.io>`
-    * An open source project to document the behavior of the United States Supreme Court.  
 
 `Google API <https://cv.jnapolitano.io/parts/python-development/google/index.html>`__
     * A Google API application that streamlines data pipeline transformation for teams using the Google Productivity Suite.
@@ -57,5 +55,5 @@ Technologies:
     Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, Rocky Linux, Shell, TensorFlow, Sphinx, Vim.
 
 Spoken Languages:
-    Cantonese, Mandarin, Sranan Tongo, French, Spanish, Modern Standard Arabic, Egyptian Arabic.
+    Cantonese, French, Mandarin, Modern Standard Arabic, Spanish, Sranan Tongo.
 
