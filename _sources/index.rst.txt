@@ -9,7 +9,7 @@ Email:
     * :email:`justin@jnapolitano.io`
 
 Phone:
-    * `+1(832) 299-0372 <tel:+1-832-299-0372>`_
+    * `+1-(832) 299-0372 <tel:+1-832-299-0372>`_
 
 Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
