@@ -8,7 +8,7 @@ Justin Napolitano
 
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
   
-   <hr>
+   
 
 
 
@@ -32,9 +32,10 @@ Projects
 #########
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
    
+
 `Business Analysis: <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
     * Forecasting and analysis projects.
 
@@ -71,8 +72,9 @@ Skills
 #####################
 
 .. raw:: html
-  
-   <hr>
+
+    <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 Programming Languages:
     * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
