@@ -29,6 +29,10 @@ Resume:
 Projects
 #########
 
+.. raw:: html
+  
+   <hr>
+   
 `Business Analysis: <https://cv.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
     * Forecasting and analysis projects.
 
@@ -63,6 +67,10 @@ Projects
 
 Skills
 #####################
+
+.. raw:: html
+  
+   <hr>
 
 Programming Languages:
     * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
