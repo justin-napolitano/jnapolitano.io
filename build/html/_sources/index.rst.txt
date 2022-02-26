@@ -23,7 +23,7 @@ Web:
     * `resume.jnapolitano.io <https://resume.jnapolitano.io>`_
     
 Resume:
-    :download:`Download Resume <pdf/justin_napolitano_resume.pdf>`
+    * :download:`Download Resume <pdf/justin_napolitano_resume.pdf>`
 
 
 
@@ -64,11 +64,11 @@ Skills
 #####################
 
 Programming Languages:
-    Bash, C, LaTeX, Python, SAS, SPSS, SQL.
+    * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
 
 Technologies:
-    Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, Rocky Linux, Shell, TensorFlow, Sphinx, Vim.
+   *  Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, Rocky Linux, Shell, TensorFlow, Sphinx, Vim.
 
 Spoken Languages:
-    Cantonese, French, Mandarin, Modern Standard Arabic, Spanish, Sranan Tongo.
+    * Cantonese, French, Mandarin, Modern Standard Arabic, Spanish, Sranan Tongo.
 
