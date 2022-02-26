@@ -4,7 +4,10 @@
 Justin Napolitano
 ***************************
 
-<hr>
+.. raw:: html
+  
+   <hr>
+
 
 
 Email:
