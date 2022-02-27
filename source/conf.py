@@ -203,7 +203,7 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-
+"""
 html_sidebars = {
     "parts/journal/posts/*": [
         "sidebar-logo.html",
@@ -213,12 +213,13 @@ html_sidebars = {
         "sbt-sidebar-footer.html",
     ]
 }
+"""
 
 html_theme_options = {
     "home_page_in_toc": True,
     "theme_dev_mode": True,
     "path_to_docs": "source",
-    "repository_url": "https://github.com/justin-napolitano/cv",
+    "repository_url": "https://github.com/justin-napolitano/jnapolitano.io",
     # "repository_branch": "gh-pages",  # For testing
     "launch_buttons": {
         #"binderhub_url": "https://mybinder.org",
