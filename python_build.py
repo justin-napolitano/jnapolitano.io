@@ -1,6 +1,6 @@
-import pyfiglet
-from pyfiglet import Figlet
-from lolpython import lol_py
+#import pyfiglet
+#from pyfiglet import Figlet
+#from lolpython import lol_py
 import subprocess
 from time import sleep
 from random import randrange
@@ -24,7 +24,7 @@ class dependency_pipeline:
         self.dependencies_log = self.install_dependencies()
 
     def install_dependencies(self):
-        print("Dependency Check")
+        ##print("Dependency Check")
         utility_functions.seperator()
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['pip', 'install', '-r', 'requirements.txt'], capture_output=True, text=True)
@@ -32,7 +32,7 @@ class dependency_pipeline:
 
         print(result.stderr)
 
-        print("DependenCies INstalled")
+        ##print("DependenCies INstalled")
         utility_functions.seperator()
 
         return(result)
@@ -49,7 +49,7 @@ class build_pipeline:
 
     def make_clean(self):
 
-        print("Now i'm cleaning the old build")
+        ##print("Now i'm cleaning the old build")
 
 
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
@@ -57,74 +57,74 @@ class build_pipeline:
         print(result.stdout)
         print(result.stderr)
 
-        print("ClEAN")
+        ##print("ClEAN")
 
         return result
 
 
     def make_html(self):
-        print("Making dE HTML BUIld")
+        ##print("Making dE HTML BUIld")
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['make', 'html'], capture_output=True, text=True)
         print(result.stdout)
         print(result.stderr)
-        print("i make it")
+        ##print("i make it")
 
         return result
 
     def commit(self):
         time_stamp=utility_functions.timestamp()
-        print("commiting !!!")
+        ##print("commiting !!!")
 
 
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['git', 'commit', '-m', 'autocommit on' + time_stamp], capture_output=True, text=True)
-        print("Output")
+        ##print("Output")
 
         print(result.stdout)
-        print("Errors")
+        ##print("Errors")
 
         print(result.stderr)
 
 
-        print("committed")
+        ##print("committed")
         return result
 
 
     def push(self):
         time_stamp=utility_functions.timestamp()
-        print("PUshing")
+        ##print("PUshing")
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['git', 'push'], capture_output=True, text=True)
-        print("Output")
+        ##print("Output")
 
         print(result.stdout)
-        print("Errors")
+        ##print("Errors")
 
         print(result.stderr)
 
 
-        print("pushed it")
+        ##print("pushed it")
 
         return result
 
 
     def add(self):
 
-        print("Adding CHanges!!!")
+        ##print("Adding CHanges!!!")
 
 
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['git', 'add', '.'], capture_output=True, text=True)
-        print("Output")
+        ##print("Output")
 
         print(result.stdout)
-        print("Errors")
+        ##print("Errors")
 
         print(result.stderr)
 
 
-        print("changes added")
+        ##print("changes added")
 
         return result
 
@@ -136,21 +136,21 @@ class deploy_pipeline:
 
     def deploy(self,cname):
 
-        print("DEPLOYING!!!")
+        ##print("DEPLOYING!!!")
 
 
         #subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'my_package'])
         result = subprocess.run(['ghp-import', '-n', '-p', '-f', '-c', cname, 'build/html' ], capture_output=True, text=True)
-        print("Output")
+        ##print("Output")
 
         print(result.stdout)
-        print("Errors")
+        ##print("Errors")
 
         print(result.stderr)
 
 
-        print("i deployz it")
-        print('your site is live at' + cname)
+        ##print("i deployz it")
+        ##print('your site is live at' + cname)
 
         return result
 
@@ -179,7 +179,7 @@ class utility_functions:
         end=randrange(3,9)
         think = think
         #sleep(10)
-        print(think)
+        ##print(think)
 
 
     def timestamp():
@@ -192,7 +192,7 @@ class utility_functions:
         seperator = '-------------'
         sep = seperator
         #sleep(10)
-        print(sep)
+        ##print(sep)
 
 
 
@@ -201,7 +201,7 @@ def main():
     conf = config()
     introduction()
     #install_dependencies()
-    dependency_log = dependency_pipeline()
+    #dependency_log = dependency_pipeline()
     build_log = build_pipeline()
     deploy_log = deploy_pipeline(conf.cname)
 
