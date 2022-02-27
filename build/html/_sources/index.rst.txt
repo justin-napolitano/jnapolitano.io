@@ -61,11 +61,11 @@ Projects
 `Court-Behavior.io: <https://court-behavior.io>`_
     * An open source project to document the behavior of the United States Supreme Court.  
 
-`Sphinx CV Template: <https://docs.jnapolitano.io/parts/reference/build-this-site/index.html>`__
+`Sphinx CV Template: <https://journal.jnapolitano.io/parts/tutorials/sphinx/docs/build-this-site.html>`__
     * A Sphinx project to create a cv and resume with ReStructuredText and MarkDown.
 
-`Development Setup Scripts: <https://docs.jnapolitano.io/parts/reference/configuration/index.html>`__
-    * Scripts and instructions to setup \*nix systems for software development.
+`Developer Tutorials: <https://journal.jnapolitano.io/index.html#tutorials>`__
+    * Scripts and tutorials for development and analysis on \*nix systems.
 
 
 
