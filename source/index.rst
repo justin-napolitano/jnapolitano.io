@@ -20,8 +20,8 @@ Phone:
 
 Web:
     * `jnapolitano.io <https://jnapolitano.io>`_
-    * `cv.jnapolitano.io <https://cv.jnapolitano.io>`_
     * `resume.jnapolitano.io <https://resume.jnapolitano.io>`_
+    * `cv.jnapolitano.io <https://cv.jnapolitano.io>`_
     
 Resume:
     * :download:`Download Resume <pdf/justin_napolitano_resume.pdf>`

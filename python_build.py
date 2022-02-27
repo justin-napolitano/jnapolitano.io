@@ -150,7 +150,7 @@ class deploy_pipeline:
 
 
         ##print("i deployz it")
-        ##print('your site is live at' + cname)
+        print('your site is live at ' + cname)
 
         return result
 
@@ -160,8 +160,8 @@ def introduction():
     print("INstalling Depenedencies")
     print("B4 we begin")
     print("you Should read the requirments.txt file")
-    print("If you don't trust me press ctr-c now to stop this program.   Then, read the file.")
-
+    print("If you don't trust me press ctr-c now to stop this program.   Then, read the file. I'm giving you 15 seconds to think this through")
+    sleep(15)
 
 def command():
     result = subprocess.run(['ls', '-l'], capture_output=True, text=True)
