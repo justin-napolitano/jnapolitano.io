@@ -28,48 +28,46 @@ Resume:
     * :download:`Download Resume </pdf/justin_napolitano_resume.pdf>`
     * `resume.jnapolitano.io <https://resume.jnapolitano.io>`_
 
-
-
 Projects
 #########
 
 .. raw:: html
 
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-   
 
-`Business Analysis: <https://docs.jnapolitano.io/parts/analysis/business-analysis/index.html>`__ 
-    * Forecasting and analysis projects.
 
-`Political Analysis: <https://docs.jnapolitano.io/parts/analysis/political-analysis/index.html>`__   
-    * Conflict, behavioral, and political analysis.
+`Retail Sale Forecasting: <http://docs.jnapolitano.io/parts/analysis/business-analysis/project-retail-sales-forecasting/code-base/SalesForcasting.html>`__ 
+    * Forecasting sales of 57 retail stores.
 
-`Identifying Human Rights Abuses in Anatolia <https://journal.jnapolitano.io/parts/articles/project-kurdish-conflict/index.html>`__
-    * Identifying human rights abuses committed in the Turkish-Kurdish ethnicn conflict. 
+`Human Rights Abuse Framework: <https://docs.jnapolitano.io/parts/analysis/political-analysis/human-rights-law/index.htmll>`__   
+    * Corpus of international human rights law.
 
-`Human Rights Abuse Frame Work <https://journal.jnapolitano.io/parts/articles/project-human-rights-law/index.html>`__
-    * A frame work to aid researchers in identifying human rights abuses in conflict zones.  
+`Human Rights Abuses in Anatolia: <https://journal.jnapolitano.io/parts/articles/project-kurdish-conflict/index.html>`_
+    * Identifying human rights abuses and terrorist activity in Anatolia.
 
-`TensorFlow Projects: <https://docs.jnapolitano.io/parts/ml-ai/index.html>`__
-    * Machine learning for political analysis. 
+`World Trade Organization and Regulating International Trade <https://journal.jnapolitano.io/parts/articles/project-evolution-of-ngos/index.html>`_
+    * Researching the WTO's role in regulating international commerce.
 
-`Web Scraping: <https://docs.jnapolitano.io/parts/data/web-scraping/index.html>`__
-    * A web scraping application... for educational purposes only.  
+`TensorFlow Behavioral Prediction: <https://docs.jnapolitano.io/parts/ml-ai/index.html>`__
+    * Predicting to judicial behavior with TensorFlow.
+
+`Supreme Court MetaData Graph <http://docs.jnapolitano.io/parts/analysis/political-analysis/sup-court/project-sup-court-meta-data-graph/index.html>`_
+    * Scripts to build a graph of the meta data of every US Supreme Court case.
 
 `Google API: <https://docs.jnapolitano.io/parts/python-development/google/index.html>`__
-    * Google API application to transform JSON data to Google Sheets. 
+    * Google API application to transform json data to Google Sheets.
 
-`Sphinx Documentation Template: <https://journal.jnapolitano.io/parts/tutorials/sphinx/docs/build-this-site.html>`__
-    * A Sphinx project to create documentation with ReStructuredText and MarkDown.
-
-`Developer Tutorials: <https://journal.jnapolitano.io/index.html#tutorials>`__
-    * Scripts and tutorials for development and analysis on \*nix systems.
+`Sphinx Documentation Template: <https://docs.jnapolitano.io/parts/reference/build-this-site/index.html>`__
+    * Create documentation with Sphinx, Latex, and JupyterBooks.
 
 `Python Algorithms: <https://docs.jnapolitano.io/parts/reference/algorithms/index.html>`__
     * Python Algorithms for learning and reference.
 
 `Python Data Structures: <https://docs.jnapolitano.io/parts/reference/data-structures/python/index.html>`__
     * Python Data Structures for learning and reference.
+
+`Development Setup Scripts: <https://docs.jnapolitano.io/parts/reference/configuration/index.html>`__
+    * Scripts and instructions to setup \*nix systems for software development.
 
 
 Skills
@@ -81,11 +79,10 @@ Skills
 
 
 Programming Languages:
-    * Bash, C, LaTeX, Python, SAS, SPSS, SQL.
+    * Bash, C, Python, SAS, SQL.
 
 Technologies:
-   *  Azure, Debian/Ubuntu, Docker, Git, JanusGraph, Jupyter Notebook, Neo4j, Pandas, RHEL/Rocky Linux, Shell, TensorFlow, Sphinx.
+   *  Azure, Debian/Ubuntu, Docker, JanusGraph, Jupyter Notebook, LaTeX,Neo4j, Pandas, RHEL/Rocky Linux, TensorFlow, Sphinx.
 
 Spoken Languages:
     * Cantonese, French, Spanish.
-
