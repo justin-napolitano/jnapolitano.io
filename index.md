@@ -1,12 +1,28 @@
 ---
-slug: "github-jnapolitano.io"
-title: "jnapolitano.io"
-repo: "justin-napolitano/jnapolitano.io"
-githubUrl: "https://github.com/justin-napolitano/jnapolitano.io"
-generatedAt: "2025-11-23T09:11:21.259239Z"
-source: "github-auto"
+slug: github-jnapolitano.io
+title: Technical Overview of jnapolitano.io Static Site Build and Deployment
+repo: justin-napolitano/jnapolitano.io
+githubUrl: https://github.com/justin-napolitano/jnapolitano.io
+generatedAt: '2025-11-23T09:11:21.259239Z'
+source: github-auto
+summary: >-
+  Detailed technical overview of automating static site build, deployment with GitHub Pages, and
+  Dropbox backup integration in jnapolitano.io.
+tags:
+  - static-site
+  - github-pages
+  - deployment
+  - backup
+  - python
+  - automation
+seoPrimaryKeyword: jnapolitano.io
+seoSecondaryKeywords:
+  - static site build
+  - github pages deployment
+  - dropbox backup
+  - build automation
+seoOptimized: true
 ---
-
 
 # Technical Overview of jnapolitano.io
 
