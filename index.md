@@ -22,6 +22,13 @@ seoSecondaryKeywords:
   - dropbox backup
   - build automation
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses primarily on automating static site build, deployment, and backup using scripts
+  and tooling like Makefiles, shell scripts, Python scripts, and API integrations. This matches
+  closely the Automation family which includes build, deployment, git workflows, and content
+  publishing automation.
 ---
 
 # Technical Overview of jnapolitano.io
@@ -75,3 +82,4 @@ The `latex/` directory holds LaTeX templates for a resume. The README hints at a
 This repository exemplifies a pragmatic approach to managing static site workflows and resume document generation. It combines scripting, API integration, and build automation to reduce manual overhead. Returning to this project, one should first ensure environment setup (Python, pip, Dropbox token), then follow the build and deployment scripts to maintain or extend the site and resume content.
 
 Future improvements should focus on code cleanup, enhanced documentation, and secure credential handling to improve maintainability and security.
+
