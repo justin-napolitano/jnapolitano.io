@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/jnapolitano.io
 generatedAt: '2025-11-24T21:35:20.510Z'
 source: github-auto
 summary: >-
-  Explore scripts and configurations for automating deployment, backup, and
-  LaTeX resume management for static sites.
+  Explore scripts and configurations for automating deployment, backup, and LaTeX resume management
+  for static sites.
 tags:
   - github pages
   - python
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - latex resume templates
   - makefile build automation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -148,4 +148,5 @@ source/           # Sphinx documentation source
 # Notes
 
 This README assumes the primary purpose is managing a static site with deployment and backup automation, alongside LaTeX resume management. Some scripts and files have unclear roles and would benefit from additional documentation.
+
 
