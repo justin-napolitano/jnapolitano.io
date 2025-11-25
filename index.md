@@ -1,13 +1,13 @@
 ---
 slug: github-jnapolitano.io
-title: Technical Overview of jnapolitano.io Static Site Build and Deployment
+title: Automating Static Site Management with jnapolitano.io
 repo: justin-napolitano/jnapolitano.io
 githubUrl: https://github.com/justin-napolitano/jnapolitano.io
 generatedAt: '2025-11-23T09:11:21.259239Z'
 source: github-auto
 summary: >-
-  Detailed technical overview of automating static site build, deployment with GitHub Pages, and
-  Dropbox backup integration in jnapolitano.io.
+  Explore the automation of build, deployment, and backup processes for static
+  sites using Python, shell scripts, and Dropbox integration.
 tags:
   - static-site
   - github-pages
@@ -15,20 +15,31 @@ tags:
   - backup
   - python
   - automation
-seoPrimaryKeyword: jnapolitano.io
+  - shell scripts
+  - github pages
+  - dropbox
+  - sphinx
+  - makefile
+  - latex
+  - docker
+seoPrimaryKeyword: static site automation
 seoSecondaryKeywords:
-  - static site build
-  - github pages deployment
-  - dropbox backup
-  - build automation
+  - build pipeline automation
+  - deployment scripts
+  - backup solutions
+  - LaTeX resume management
+  - GitHub Pages deployment
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post focuses primarily on automating static site build, deployment, and backup using scripts
-  and tooling like Makefiles, shell scripts, Python scripts, and API integrations. This matches
-  closely the Automation family which includes build, deployment, git workflows, and content
-  publishing automation.
+  The post focuses primarily on automating static site build, deployment, and
+  backup using scripts and tooling like Makefiles, shell scripts, Python
+  scripts, and API integrations. This matches closely the Automation family
+  which includes build, deployment, git workflows, and content publishing
+  automation.
+kind: project
+id: github-jnapolitano.io
 ---
 
 # Technical Overview of jnapolitano.io
