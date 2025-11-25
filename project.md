@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/jnapolitano.io
 generatedAt: '2025-11-24T21:35:20.510Z'
 source: github-auto
 summary: >-
-  Explore scripts and configurations for automating deployment, backups, and
-  LaTeX resume templates in a static site project.
+  Explore scripts and configurations for automating deployment, backup, and
+  LaTeX resume management for static sites.
 tags:
   - github pages
   - python
@@ -21,9 +21,9 @@ seoPrimaryKeyword: static site deployment automation
 seoSecondaryKeywords:
   - github pages deployment
   - python backup scripts
-  - docker for static sites
+  - docker environment setup
   - latex resume templates
-  - makefile automation
+  - makefile build automation
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
