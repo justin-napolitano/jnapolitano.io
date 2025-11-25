@@ -1,20 +1,30 @@
 ---
 slug: github-jnapolitano-io
 id: github-jnapolitano-io
-title: jnapolitano.io
+title: Automated Deployment and Backup for Static Sites
 repo: justin-napolitano/jnapolitano.io
 githubUrl: https://github.com/justin-napolitano/jnapolitano.io
 generatedAt: '2025-11-24T21:35:20.510Z'
 source: github-auto
 summary: >-
-  A collection of scripts and configurations for building, deploying, and
-  backing up a static site, along with LaTeX resume templates. This repository
-  automates deployment workflows, dependency management, and Dropbox backups for
-  the site hosted at cv.jnapolitano.io.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore scripts and configurations for automating deployment, backups, and
+  LaTeX resume templates in a static site project.
+tags:
+  - github pages
+  - python
+  - bash
+  - docker
+  - latex
+  - makefile
+  - dropbox api
+seoPrimaryKeyword: static site deployment automation
+seoSecondaryKeywords:
+  - github pages deployment
+  - python backup scripts
+  - docker for static sites
+  - latex resume templates
+  - makefile automation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
